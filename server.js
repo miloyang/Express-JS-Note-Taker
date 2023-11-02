@@ -31,6 +31,11 @@ app.get('/notes', (req, res) => {
     console.info('notes.html has been received')
 });
 
+// Wildcard route to direct users to the index.html page
+app.get('*', (req, res) =>
+  res.sendFile(path.join(__dirname, 'public/index.html'))
+);
+
 // Endpoint to return our own locally stored data
 // app.get('/notes', (req, res) => res.json(db));
 
