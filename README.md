@@ -13,7 +13,7 @@ The user will need to install the express package in order to use this applicati
 To use the Note Taker application, you can copy and this link into your browser:
 
 The page should open as per below screenshots:
-![Screenshot of SVG Viewer example](assets/images/SVG-viewer-screenshot.png)
+![Screenshot of Express JS Note Taker Application](assets/images/Express-JS-Note-Taker-Screenshot.png)
 
 Once you're on the home page, simply click on "Get Started". You will be taken to the page where you can write and save your notes. 
 
