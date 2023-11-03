@@ -5,7 +5,7 @@ const db = require('./db/db.json');
 // Import the notes router
 const api = require('./routes/index');
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 const app = express();
 
