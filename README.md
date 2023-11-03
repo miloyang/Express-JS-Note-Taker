@@ -6,7 +6,7 @@ This Note Taker application allows you to write and save notes. It uses an Expre
 
 ## Installation
 
-The user will need to install the express package in order to use this application.  
+The user will need to install the express JS package in order to use this application.  
 
 ## Usage
 
