@@ -11,6 +11,7 @@ The user will need to install the express JS package in order to use this applic
 ## Usage
 
 To use the Note Taker application, you can copy and this link into your browser:
+https://safe-refuge-94144-364c3a91641d.herokuapp.com/
 
 The page should open as per below screenshots:
 ![Screenshot of Express JS Note Taker Application](assets/images/Express-JS-Note-Taker-Screenshot.png)
